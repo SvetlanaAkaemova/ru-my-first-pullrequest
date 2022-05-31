@@ -112,7 +112,7 @@ A strong man doesn't need to read his future. He makes his own.
 Как тот баран на новые ворота
 Тихонечько слова роняю неприличные…
 ***
-
+Это моя строка
 r-lucky was here
 
 Просто выполняю задание hexlet 
